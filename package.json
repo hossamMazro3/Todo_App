@@ -1,0 +1,13 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "expres": "^0.0.5",
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "mongoose": "^5.10.9"
+  }
+}
